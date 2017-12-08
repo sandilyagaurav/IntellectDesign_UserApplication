@@ -1,0 +1,9 @@
+com\intellectdesign\springbootstarter\user\controller\UserController.class
+com\intellectdesign\springbootstarter\user\error\UserError.class
+com\intellectdesign\springbootstarter\user\util\UserUtil.class
+com\intellectdesign\springbootstarter\user\error\Error.class
+com\intellectdesign\springbootstarter\UserApiApp.class
+com\intellectdesign\springbootstarter\user\service\UserService.class
+com\intellectdesign\springbootstarter\user\util\ValidateUser.class
+com\intellectdesign\springbootstarter\user\model\UserResponse.class
+com\intellectdesign\springbootstarter\user\model\User.class

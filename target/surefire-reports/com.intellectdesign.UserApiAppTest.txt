@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.intellectdesign.UserApiAppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.204 sec - in com.intellectdesign.UserApiAppTest
